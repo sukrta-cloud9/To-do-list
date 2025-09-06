@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sukrta-cloud9/To-do-list.git/static/css/main.82ed3ff1.css",
+    "main.js": "/sukrta-cloud9/To-do-list.git/static/js/main.1eb32106.js",
+    "static/js/453.2c4d6784.chunk.js": "/sukrta-cloud9/To-do-list.git/static/js/453.2c4d6784.chunk.js",
+    "index.html": "/sukrta-cloud9/To-do-list.git/index.html",
+    "main.82ed3ff1.css.map": "/sukrta-cloud9/To-do-list.git/static/css/main.82ed3ff1.css.map",
+    "main.1eb32106.js.map": "/sukrta-cloud9/To-do-list.git/static/js/main.1eb32106.js.map",
+    "453.2c4d6784.chunk.js.map": "/sukrta-cloud9/To-do-list.git/static/js/453.2c4d6784.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82ed3ff1.css",
+    "static/js/main.1eb32106.js"
+  ]
+}
