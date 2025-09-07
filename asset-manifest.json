@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sukrta-cloud9/To-do-list/static/css/main.82ed3ff1.css",
-    "main.js": "/sukrta-cloud9/To-do-list/static/js/main.81204831.js",
-    "static/js/453.2c4d6784.chunk.js": "/sukrta-cloud9/To-do-list/static/js/453.2c4d6784.chunk.js",
-    "index.html": "/sukrta-cloud9/To-do-list/index.html",
-    "main.82ed3ff1.css.map": "/sukrta-cloud9/To-do-list/static/css/main.82ed3ff1.css.map",
-    "main.81204831.js.map": "/sukrta-cloud9/To-do-list/static/js/main.81204831.js.map",
-    "453.2c4d6784.chunk.js.map": "/sukrta-cloud9/To-do-list/static/js/453.2c4d6784.chunk.js.map"
+    "main.css": "/To-do-list/static/css/main.82ed3ff1.css",
+    "main.js": "/To-do-list/static/js/main.56b09515.js",
+    "static/js/453.2c4d6784.chunk.js": "/To-do-list/static/js/453.2c4d6784.chunk.js",
+    "index.html": "/To-do-list/index.html",
+    "main.82ed3ff1.css.map": "/To-do-list/static/css/main.82ed3ff1.css.map",
+    "main.56b09515.js.map": "/To-do-list/static/js/main.56b09515.js.map",
+    "453.2c4d6784.chunk.js.map": "/To-do-list/static/js/453.2c4d6784.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82ed3ff1.css",
-    "static/js/main.81204831.js"
+    "static/js/main.56b09515.js"
   ]
 }
